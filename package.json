@@ -1,0 +1,17 @@
+{
+    "name": "ndjson-server-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.15.3",
+        "ndjson": "^1.5.0",
+        "path": "^0.12.7"
+    }
+}
